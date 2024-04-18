@@ -1,1 +1,1 @@
-# bu.steller
+# Stellar-Workshop-Template
